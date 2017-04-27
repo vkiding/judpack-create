@@ -19,8 +19,8 @@
     "vue-router": "^2.1.1",
     "vuex": "^2.1.1",
     "vuex-router-sync": "^4.0.1",
-    "jud-html5": "^0.4.1",
-    "jud-vue-render": "^0.11.2"
+    "jud-html5": "latest",
+    "jud-vue-render": "latest"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
@@ -35,8 +35,8 @@
     "vue-template-compiler": "^2.1.8",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.2",
-    "jud-builder": "^0.2.6",
-    "jud-loader": "^0.4.1"
+    "jud-builder": "latest",
+    "jud-loader": "latest"
   },
   "optionalDependencies": {
     "ios-deploy": "^1.9.0"
