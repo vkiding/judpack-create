@@ -21,7 +21,7 @@
     },
     methods: {
       update: function (e) {
-        this.target = 'Jud'
+        this.target = this.target === 'Jud' ? 'World' : 'Jud'
         console.log('target:', this.target)
       }
     }
