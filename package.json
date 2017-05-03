@@ -1,6 +1,6 @@
 {
   "name": "judpack-create",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "jud pack create",
   "main": "index.js",
   "engines": {

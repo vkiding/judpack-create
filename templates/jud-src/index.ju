@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-      <image src="http://img1.vued.vanthink.cn/vued08aa73a9ab65dcbd360ec54659ada97c.png" class="bannar-image"/>
+      <image src="https://raw.githubusercontent.com/vkiding/jud-toolkit/master/jud.png" class="bannar-image"/>
       <text class="message">{{ message }}</text>
       <text class="quotes">{{ quotes }}</text>    
   </div>

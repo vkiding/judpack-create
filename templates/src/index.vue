@@ -16,7 +16,7 @@
 <script>
   export default {
     data: {
-      logoUrl: 'http://img1.vued.vanthink.cn/vued08aa73a9ab65dcbd360ec54659ada97c.png',
+      logoUrl: 'https://raw.githubusercontent.com/vkiding/jud-toolkit/master/jud.png',
       target: 'World'
     },
     methods: {
